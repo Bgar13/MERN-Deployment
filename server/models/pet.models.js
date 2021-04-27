@@ -22,7 +22,7 @@ const PetSchema = new mongoose.Schema({
     skillTwo:{
         type: String,
     },   
-    skillsThree:{
+    skillThree:{
         type: String,
     }
 
