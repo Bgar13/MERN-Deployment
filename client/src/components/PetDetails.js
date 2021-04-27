@@ -38,8 +38,8 @@ const PetDetails = (props) => {
                 <p>Type of pet : {pet.typeOfPet}</p>
                 <p>Description: {pet.description}</p>
                 <p>Skill #1: {pet.skillOne}</p>
-                <p>Skill #1: {pet.skillTwo}</p>
-                <p>Skill #1: {pet.skillThree}</p>
+                <p>Skill #2: {pet.skillTwo}</p>
+                <p>Skill #3: {pet.skillThree}</p>
             </div>
         </div>
     )
